@@ -1,6 +1,6 @@
 ![image](logo-fall-in-love-with-julia.png)
 
-# fall-in-love-with-julia 13: Introduction to JuMP and DisjunctiveProgramming.jl
+# fall-in-love-with-julia 14: Introduction to JuMP and DisjunctiveProgramming.jl
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/fall-in-love-with-julia-14/main)
 
