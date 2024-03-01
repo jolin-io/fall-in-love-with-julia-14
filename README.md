@@ -2,7 +2,7 @@
 
 # fall-in-love-with-julia 13: Introducint JuMP and DisjunctiveProgramming.jl
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/fall-in-love-with-julia-13/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/fall-in-love-with-julia-14/main)
 
 An introductory 101 series to get to know the power of Julialang.
 
@@ -33,7 +33,7 @@ Here my favourite passage
 
 ## Local installation via Docker
 
-If [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/fall-in-love-with-julia-13/main) does not work for you, you can install the package locally.
+If [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/jolin-io/fall-in-love-with-julia-14/main) does not work for you, you can install the package locally.
 
 This process is identical to how mybinder.org is actually doing it. Hence you will get the very same environment.
 
@@ -50,7 +50,7 @@ This process is identical to how mybinder.org is actually doing it. Hence you wi
 3. Execute repo2docker on this repository. It will take several 10 minutes to build everything.
 
     ```bash
-    jupyter-repo2docker https://github.com/jolin-io/fall-in-love-with-julia-13
+    jupyter-repo2docker https://github.com/jolin-io/fall-in-love-with-julia-14
     ```
 
     Usually, a browser is opened automatically for you, but if not, an url is also printed at the very end of the command output. Copy that one to your browser and you are ready to go.
